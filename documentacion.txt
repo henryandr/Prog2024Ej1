@@ -1,0 +1,2 @@
+Proyecto de Git
+Estamos practicando los comandos básicos de git
